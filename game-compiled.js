@@ -309,7 +309,7 @@ var Envelope = (function (_gameObject3) {
         image.height = self.height;
         self.image = image;
       };
-      image.src = 'http://www.clipartsfree.net/vector/small/Envelope_closed-bw_Clipart_Free.png';
+      image.src = 'envelope.png';
     }
   }, {
     key: 'draw',

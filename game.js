@@ -232,7 +232,7 @@ class Envelope extends gameObject {
       image.height = self.height;
       self.image = image;
     };
-    image.src = "http://www.clipartsfree.net/vector/small/Envelope_closed-bw_Clipart_Free.png";
+    image.src = "envelope.png";
   }
 
   draw() {
