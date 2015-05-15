@@ -146,7 +146,7 @@ var startScreen = (function (_gameObject) {
     key: 'draw',
     value: function draw() {
       var y = this.context.canvas.height / 2;
-      var title = 'The Paperless Post Game!';
+      var title = 'The Envelope Game!';
       // fill the background
       this.context.fillStyle = 'cornflowerblue';
       this.context.fillRect(this.x, this.y, this.width, this.height);
